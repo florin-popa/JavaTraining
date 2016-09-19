@@ -1,3 +1,3 @@
 # JavaTraining
 
-You will upload your projects here, if you want. This is the repository to be forked.
+You should set your Eclpise workspace to the Projects folder.
